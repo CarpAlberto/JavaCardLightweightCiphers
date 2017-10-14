@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Java Card project properties</comment>
+<entry key="sid">0xd0:0xd1:0xd2:0xd3:0xd4:0xd5:0x01</entry>
+<entry key="sid.TestApplet">0xd0:0xd1:0xd2:0xd3:0xd4:0xd5:0x01:0x01</entry>
+</properties>
